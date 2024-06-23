@@ -34,6 +34,10 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# else
-.env*
+# misc
+*.env*
+*.pem
 gcp.json
+
+# else
+static/
